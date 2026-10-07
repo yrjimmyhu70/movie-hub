@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "big-buck-bunny",
+    "title": "Big Buck Bunny",
+    "year": 2008,
+    "license": "CC BY 3.0 (Blender Foundation)",
+    "poster": "",
+    "src": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "slug": "sintel",
+    "title": "Sintel",
+    "year": 2010,
+    "license": "CC BY 3.0 (Blender Foundation)",
+    "poster": "",
+    "src": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+  }
+]
