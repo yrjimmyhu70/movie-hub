@@ -10,7 +10,7 @@ export default function MoviePage() {
   const [loading, setLoading] = useState(true);
 
   // TMDb API Key (Agar env file mein hai toh wahan se uthayega)
-  const API_KEY = process.env.NEXT_PUBLIC_TMDB_API_KEY || 'YOUR_TMDB_API_KEY';
+  const API_KEY = process.env.NEXT_PUBLIC_TMDB_API_KEY || '8c24a682a201c13d33939611f71df89d';
 
   useEffect(() => {
     if (!movieId) return;
